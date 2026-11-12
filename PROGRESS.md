@@ -21,6 +21,16 @@ The user may log Phase 0 decisions here too (e.g. "Chose Supabase").
 
 <!-- Newest entries go directly below this line -->
 
+### 2026-11-13 — GPT-6 Luna — Remaining assigned tasks review
+- **Status:** ⛔ Blocked
+- **What I did:**
+  - Reviewed the remaining GPT-6 Luna tasks and checked their phase dependencies.
+  - Left later-phase tasks unstarted because Phase 1 Task 1.3 is still incomplete; its progress entry says it is waiting for the user's Supabase/Firebase choice.
+- **Files changed:** `PROGRESS.md`
+- **How I checked it:** Compared task owners and statuses in `PLAN.md` with the phase-order rule.
+- **Blockers / needs from user:** Choose Supabase or Firebase in `PROGRESS.md` so Gemini can finish Task 1.3; then Phase 2 can begin.
+- **Next step:** After Task 1.3 is complete, continue with GPT-6 Luna's Phase 2 tasks.
+
 ### 2026-11-13 01:36 — Gemini 3.8 Flash — Task 1.1 Project layout & hash router
 - **Status:** ✅ Done
 - **What I did:**
